@@ -2,8 +2,8 @@
 ## Tugas Pertemuan 12 - Bahasa Pemrograman
 
 ```sh
-Nama   : Raihan Tantowi
-Nim    : 312110229
+Nama   : Azzahra Anugrah Nuralif
+Nim    : 312210728
 Matkul : Bahasa Pemrograman
 ```
 
@@ -133,5 +133,5 @@ while True:
 
 Berikut hasil output program data nilai mahasiswa menggunakan class 
 
-![Gambar 1]()
+![Gambar 1](https://github.com/NjahCoetz/Praktikum-8/blob/main/ss7.PNG)
 
