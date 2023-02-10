@@ -1,6 +1,17 @@
-# Praktikum-8
+# Praktikum8
+## Tugas Pertemuan 12 - Bahasa Pemrograman
 
+```sh
+Nama   : Raihan Tantowi
+Nim    : 312110229
+Matkul : Bahasa Pemrograman
+```
 
+### 1. File Praktikum.py
+Program ini adalah program sederhana daftar nilai mahasiswa yang dibuat dengan mengaplikasikan penggunaan class.
+
+* **CODINGAN**
+```python
 class Mahasiswa():
     def judul():
         print("=" * 35)
@@ -116,6 +127,11 @@ while True:
 
     else:
         print("\nPerintah yang dimasukkan salah!\n")
-Hasil output program:
-Berikut hasil output program data nilai mahasiswa menggunakan class
+```
+
+* **Hasil output program:**
+
+Berikut hasil output program data nilai mahasiswa menggunakan class 
+
+![Gambar 1]()
 
