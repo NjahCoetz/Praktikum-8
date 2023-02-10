@@ -1,4 +1,6 @@
 # Praktikum-8
+
+
 class Mahasiswa():
     def judul():
         print("=" * 35)
